@@ -1,0 +1,6 @@
+# Third-party imports found in the code, without pinned versions.
+matplotlib
+numpy
+pandas
+scikit-learn
+seaborn
